@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.13.2"
+  },
+  "name": "suggestions-bot",
+  "version": "1.0.0",
+  "description": "Suggestion System for rollerite freelancer task",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JdHobbsDev/Suggestions-bot.git"
+  },
+  "author": "Jack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JdHobbsDev/Suggestions-bot/issues"
+  },
+  "homepage": "https://github.com/JdHobbsDev/Suggestions-bot#readme"
+}
