@@ -27,8 +27,8 @@ module.exports = {
     ],
 
     // Default channel if category channel is not set
-    defaultSuggestionChannel: '1360472275148869703',
+    defaultSuggestionChannel: '',
 
     // Roles that can accept/deny suggestions
-    moderatorRoles: ['1360400879148339310'] // role IDs that can manage suggestions (remember to seperate with commas)
+    moderatorRoles: [''] // role IDs that can manage suggestions (remember to seperate with commas)
 };
