@@ -1,5 +1,5 @@
 ## ENV 
 
-CLIENT_ID=
-BOT_TOKEN=
-mongoURI=
+## CLIENT_ID=
+## BOT_TOKEN=
+## mongoURI=
